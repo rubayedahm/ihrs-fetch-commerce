@@ -12,7 +12,7 @@ export const company = {
   tagline: "Online retail, sourced with care and delivered across the UK.",
 
   // Companies House, e.g. "12345678". Shown with a link to the public register.
-  companyNumber: "",
+  companyNumber: "17408571",
   // Registered office address exactly as on Companies House.
   registeredOffice: "",
   // e.g. "England and Wales"
